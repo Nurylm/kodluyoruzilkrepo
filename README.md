@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-[img](./createrepo.png)
+[img](https://github.com/Nurylm/kodluyoruzilkrepo/blob/main/createrepo.png)
